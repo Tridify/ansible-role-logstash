@@ -10,6 +10,7 @@ logstash_monitor_local_syslog: true
 logstash_ssl_dir: /etc/pki/logstash
 logstash_ssl_certificate_file: ""
 logstash_ssl_key_file: ""
+logstash_ssl_certificate_authority: ""
 
 logstash_enabled_on_boot: yes
 
